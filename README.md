@@ -12,3 +12,7 @@ Hi, Welcome in my repository for collaborate this project, make it and join with
 - ERD hasil Normalisasi
 
 <img src="https://github.com/Android-Ninja-Goodeva/Native-API/blob/master/InvoiceApp/capture/erd_invoice.PNG"/>
+
+- File Excel Sample Normalisasi database https://docs.google.com/spreadsheets/d/1_Mfu6uotC8GsU-9C4ZFsG4c3c05ctosc/edit?usp=sharing&ouid=105864908418061293812&rtpof=true&sd=true
+
+- Recording Kelas in Skype https://drive.google.com/drive/folders/1kb8-h9HPPq7mPdp7loMZCl5onQcO_wVL?usp=sharing
