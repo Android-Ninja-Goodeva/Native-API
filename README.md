@@ -8,3 +8,7 @@ Hi, Welcome in my repository for collaborate this project, make it and join with
 - Diagram database Invoice
 
 <img src="https://github.com/Android-Ninja-Goodeva/Native-API/blob/master/InvoiceApp/capture/db_invoice_diagram.PNG"/>
+
+- ERD hasil Normalisasi
+
+<img src="https://github.com/Android-Ninja-Goodeva/Native-API/blob/master/InvoiceApp/capture/erd_invoice.PNG"/>
